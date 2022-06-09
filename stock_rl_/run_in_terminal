@@ -1,0 +1,4 @@
+cd --- change directory to current folder
+dir --- show all files in that directory
+python -V ...check python version
+anaconda prompt ---- python rl_linear_trade.py -m train && python plot_rl_rewards.py -m train
