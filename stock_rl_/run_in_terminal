@@ -1,4 +1,6 @@
-The datset used only contains the closing price of 3 company stock.
+The datset used only contains the closing price of 3 company stock that is apple,starbucks,motorola.
+Datset consist of 5 years of closing price.
+test dataset consist of half of the total dastet size
 cd --- change directory to current folder
 dir --- show all files in that directory
 python -V ...check python version
