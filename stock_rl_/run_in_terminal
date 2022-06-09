@@ -1,3 +1,4 @@
+The datset used only contains the closing price of 3 company stock.
 cd --- change directory to current folder
 dir --- show all files in that directory
 python -V ...check python version
